@@ -1,12 +1,10 @@
 #configuration file, modify this with your own paths!
 #key names are pretty self explanatory
 
-data_path: "/Users/tommasocolella/Desktop/Tesi/datasets/"
-base_path: "/Users/tommasocolella/Desktop/Tesi"
-out_path: "/Users/tommasocolella/Desktop/Tesi/uav_station/output/"
+data_path: "/"
+base_path: "/"
+out_path: "/"
 
-#geo_life_analysis_path: "G:/Progetti/Software/Crowdsensing/uav_station/output/GeoLife_analysis/"
-#geolife_data_path: "G:/Progetti/datasets/mobility/Geolife_Trajectories_1.3/Data/"
 
 #different lambda values for coverage computation, you can add (or remove) as many as you want
 # 1/100 1/300 1/700 1/1500 1/2000
