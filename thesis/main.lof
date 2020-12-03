@@ -1,0 +1,42 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {figure}{\numberline {1}{\ignorespaces Esempio di Data Coverage}}{6}{figure.caption.5}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Esempio di architettura MCS}}{10}{figure.caption.10}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Esempio di mappa di Coverage}}{16}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Esempio di funzione di densità di probabilità}}{19}{figure.caption.14}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Mappa di calore del dataset}}{22}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Alcune traiettorie di Geolife}}{23}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Numero di punti GPS per mese}}{24}{figure.caption.19}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Punti GPS per settimana nel periodo giugno 2008/giugno 2009}}{24}{figure.caption.20}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Mappa di Calore dei punti per giorno su scala annuale}}{25}{figure.caption.21}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Punti di fermata prima e dopo il clustering}}{27}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Medoidi}}{29}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Grafi stradali di Pechino}}{31}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Traiettoria interpolata}}{33}{figure.caption.27}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Grafico a barre dei dataset originario e aumentato}}{35}{figure.caption.29}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Grafico lineare settimanale dei dataset originario e aumentato}}{35}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Mappa di calore per giorni del dataset aumentato}}{36}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Mappa di calore del dataset aumentato}}{37}{figure.caption.32}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Number of visits e utenti attivi a confronto}}{38}{figure.caption.35}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Radius of gyration paragonato col numero di visite}}{39}{figure.caption.37}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Joint plot dei frequency e recency ranks}}{40}{figure.caption.39}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Pipeline di sperimentazione}}{43}{figure.caption.40}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Griglia visualizzata con folium}}{45}{figure.caption.41}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Risultati griglia, $\lambda = 1/100$}}{46}{figure.caption.42}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Risultati griglia, $\lambda = 1/300$}}{47}{figure.caption.43}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Risultati griglia, $\lambda = 1/700$}}{48}{figure.caption.44}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Mappa delle stazioni della metropolitana}}{50}{figure.caption.45}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Risultati metropolitana, $\lambda = 1/100$}}{51}{figure.caption.46}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Risultati metropolitana, $\lambda = 1/300$}}{52}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Risultati metropolitana, $\lambda = 1/700$}}{53}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Mappa dei punti di interesse}}{55}{figure.caption.49}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Risultati POIs, $\lambda = 1/100$}}{56}{figure.caption.50}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Risultati POIs, $\lambda = 1/300$}}{57}{figure.caption.51}%
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Risultati POIs, $\lambda = 1/700$}}{58}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Esempio di barriera fisica}}{60}{figure.caption.53}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Posizionamento di UAV Base Stations}}{63}{figure.caption.55}%

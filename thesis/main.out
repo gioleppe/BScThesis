@@ -1,0 +1,32 @@
+\BOOKMARK [0][-]{chapter*.4}{Introduzione}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Stato dell'arte e strumenti utilizzati}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Mobile Crowdsensing}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Data set di mobilit\340 urbana}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Librerie Utilizzate}{chapter.1}% 5
+\BOOKMARK [2][-]{subsection.1.3.1}{Scikit-mobility}{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.2}{Pandas}{section.1.3}% 7
+\BOOKMARK [2][-]{subsection.1.3.3}{OSMnx}{section.1.3}% 8
+\BOOKMARK [2][-]{subsection.1.3.4}{PyYaml}{section.1.3}% 9
+\BOOKMARK [2][-]{subsection.1.3.5}{Altre librerie}{section.1.3}% 10
+\BOOKMARK [0][-]{chapter.2}{Un modello probabilistico per la Data Coverage}{}% 11
+\BOOKMARK [1][-]{section.2.1}{Data Coverage}{chapter.2}% 12
+\BOOKMARK [1][-]{section.2.2}{Il modello probabilistico}{chapter.2}% 13
+\BOOKMARK [0][-]{chapter.3}{Dataset di mobilit\340 urbana}{}% 14
+\BOOKMARK [1][-]{section.3.1}{Microsoft Geolife}{chapter.3}% 15
+\BOOKMARK [1][-]{section.3.2}{Augmented Geolife}{chapter.3}% 16
+\BOOKMARK [2][-]{subsection.3.2.1}{Simulazione delle traiettorie}{section.3.2}% 17
+\BOOKMARK [1][-]{section.3.3}{Analisi del dataset aumentato}{chapter.3}% 18
+\BOOKMARK [0][-]{chapter.4}{Sperimentazioni e analisi dei risultati}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Tre scenari applicativi}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.2}{Monitoraggio ambientale}{chapter.4}% 21
+\BOOKMARK [2][-]{subsection.4.2.1}{Generazione della griglia}{section.4.2}% 22
+\BOOKMARK [2][-]{subsection.4.2.2}{Risultati del modello di coverage}{section.4.2}% 23
+\BOOKMARK [1][-]{section.4.3}{Flussi di traffico}{chapter.4}% 24
+\BOOKMARK [2][-]{subsection.4.3.1}{OSMnx e metropolitane di Pechino}{section.4.3}% 25
+\BOOKMARK [2][-]{subsection.4.3.2}{Visualizzazione delle stazioni della metropolitana}{section.4.3}% 26
+\BOOKMARK [2][-]{subsection.4.3.3}{Risultati del modello di coverage}{section.4.3}% 27
+\BOOKMARK [1][-]{section.4.4}{Punti di interesse}{chapter.4}% 28
+\BOOKMARK [2][-]{subsection.4.4.1}{Punti di interesse considerati }{section.4.4}% 29
+\BOOKMARK [2][-]{subsection.4.4.2}{Risultati del modello di coverage}{section.4.4}% 30
+\BOOKMARK [1][-]{section.4.5}{Analisi dei risultati ottenuti}{chapter.4}% 31
+\BOOKMARK [0][-]{chapter.5}{Conclusioni}{}% 32

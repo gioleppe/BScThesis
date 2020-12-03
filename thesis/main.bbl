@@ -1,0 +1,234 @@
+\begin{thebibliography}{10}
+
+\bibitem{zheng1}
+Y.~Zheng, X.~Xie, and W.-Y. Ma, ``Mining interesting locations and travel
+  sequences from gps trajectories,'' in {\em Proceedings of International
+  conference on World Wide Web 2009}, April 2009.
+\newblock WWW 2009.
+
+\bibitem{zheng2}
+Y.~Zheng, Q.~Li, Y.~Chen, X.~Xie, and W.-Y. Ma, {\em Understanding Mobility
+  Based on GPS Data}, p.~312–321.
+\newblock New York, NY, USA: Association for Computing Machinery, 2008.
+
+\bibitem{zheng3}
+Y.~Zheng, X.~Xie, and W.~Ma, ``Geolife: {A} collaborative social networking
+  service among user, location and trajectory,'' {\em {IEEE} Data Eng. Bull.},
+  vol.~33, no.~2, pp.~32--39, 2010.
+
+\bibitem{pappalardo2019scikitmobility}
+L.~Pappalardo, F.~Simini, G.~Barlacchi, and R.~Pellungrini, ``scikit-mobility:
+  a python library for the analysis, generation and risk assessment of mobility
+  data,'' 2019.
+
+\bibitem{survey}
+A.~{Capponi}, C.~{Fiandrino}, B.~{Kantarci}, L.~{Foschini}, D.~{Kliazovich},
+  and P.~{Bouvry}, ``A survey on mobile crowdsensing systems: Challenges,
+  solutions, and opportunities,'' {\em IEEE Communications Surveys Tutorials},
+  vol.~21, no.~3, pp.~2419--2465, 2019.
+
+\bibitem{ganti}
+R.~K. {Ganti}, F.~{Ye}, and H.~{Lei}, ``Mobile crowdsensing: current state and
+  future challenges,'' {\em IEEE Communications Magazine}, vol.~49, no.~11,
+  pp.~32--39, 2011.
+
+\bibitem{incentives}
+L.~G. {Jaimes}, I.~J. {Vergara-Laurens}, and A.~{Raij}, ``A survey of incentive
+  techniques for mobile crowd sensing,'' {\em IEEE Internet of Things Journal},
+  vol.~2, no.~5, pp.~370--380, 2015.
+
+\bibitem{privacy}
+D.~A.~G. L.~{Pournajaf}, L.~{Xiong} and V.~{Sunderam}, ``A survey on privacy in
+  mobile crowd sensing task management,'' Tech. Rep. TR-2014-002, Department of
+  Mathematics and Computer Science, Emory University, 2014, 2014.
+
+\bibitem{cities1}
+O.~Alvear, C.~Calafate, J.-C. Cano, and P.~Manzoni, ``Crowdsensing in smart
+  cities: Overview, platforms, and environment sensing issues,'' {\em Sensors},
+  vol.~18, p.~460, Feb 2018.
+
+\bibitem{cities2}
+A.~{Zanella}, N.~{Bui}, A.~{Castellani}, L.~{Vangelista}, and M.~{Zorzi},
+  ``Internet of things for smart cities,'' {\em IEEE Internet of Things
+  Journal}, vol.~1, no.~1, pp.~22--32, 2014.
+
+\bibitem{bridges}
+T.~J. {Matarazzo}, P.~{Santi}, S.~N. {Pakzad}, K.~{Carter}, C.~{Ratti},
+  B.~{Moaveni}, C.~{Osgood}, and N.~{Jacob}, ``Crowdsensing framework for
+  monitoring bridge vibrations using moving smartphones,'' {\em Proceedings of
+  the IEEE}, vol.~106, no.~4, pp.~577--593, 2018.
+
+\bibitem{participact}
+G.~{Cardone}, A.~{Cirri}, A.~{Corradi}, and L.~{Foschini}, ``The participact
+  mobile crowd sensing living lab: The testbed for smart cities,'' {\em IEEE
+  Communications Magazine}, vol.~52, no.~10, pp.~78--85, 2014.
+
+\bibitem{bellavistaHEC}
+P.~{Bellavista}, S.~{Chessa}, L.~{Foschini}, L.~{Gioia}, and M.~{Girolami},
+  ``Human-enabled edge computing: Exploiting the crowd as a dynamic extension
+  of mobile edge computing,'' {\em IEEE Communications Magazine}, vol.~56,
+  no.~1, pp.~145--155, 2018.
+
+\bibitem{bellavistaSocial}
+P.~{Bellavista}, D.~{Belli}, S.~{Chessa}, and L.~{Foschini}, ``A social-driven
+  edge computing architecture for mobile crowd sensing management,'' {\em IEEE
+  Communications Magazine}, vol.~57, no.~4, pp.~68--73, 2019.
+
+\bibitem{belliCrowd}
+D.~Belli, S.~Chessa, L.~Foschini, and M.~Girolami, ``The rhythm of the crowd:
+  Properties of evolutionary community detection algorithms for mobile edge
+  selection,'' {\em Pervasive and Mobile Computing}, vol.~67, p.~101231, 2020.
+
+\bibitem{belliProbabilistic}
+D.~{Belli}, S.~{Chessa}, L.~{Foschini}, and M.~{Girolami}, ``A probabilistic
+  model for the deployment of human-enabled edge computing in massive sensing
+  scenarios,'' {\em IEEE Internet of Things Journal}, vol.~7, no.~3,
+  pp.~2421--2431, 2020.
+
+\bibitem{Pepe2020}
+E.~Pepe, P.~Bajardi, L.~Gauvin, F.~Privitera, B.~Lake, C.~Cattuto, and
+  M.~Tizzoni, ``Covid-19 outbreak response, a dataset to assess mobility
+  changes in italy following national lockdown,'' {\em Scientific Data},
+  vol.~7, p.~230, Jul 2020.
+
+\bibitem{apple-covid}
+Apple, ``Report on mobility trends.'' \url{ https://covid19.apple.com/mobility
+  }, 2020.
+
+\bibitem{zucco-covid}
+Facebook, ``Covid-19 mobility data netword.'' \url{
+  https://dataforgood.fb.com/docs/covid19/#covid-19-mobility-data-network },
+  2020.
+
+\bibitem{badr_du_marshall_dong_squire_gardner_2020}
+H.~S. Badr, H.~Du, M.~Marshall, E.~Dong, M.~M. Squire, and L.~M. Gardner,
+  ``Association between mobility patterns and covid-19 transmission in the usa:
+  a mathematical modelling study,'' {\em The Lancet Infectious Diseases}, 2020.
+
+\bibitem{python}
+G.~Van~Rossum and F.~L. Drake, {\em Python 3 Reference Manual}.
+\newblock Scotts Valley, CA: CreateSpace, 2009.
+
+\bibitem{Jupyter}
+K.~Thomas, R.-K. Benjamin, P.~Fernando, G.~Brian, B.~Matthias, F.~Jonathan,
+  K.~Kyle, H.~Jessica, G.~Jason, C.~Sylvain, and et~al., ``Jupyter notebooks; a publishing format for reproducible computational workflows,'' {\em
+  Stand Alone}, vol.~0, no.~Positioning and Power in Academic Publishing:
+  Players, Agents and Agendas, p.~87–90, 2016.
+
+\bibitem{anaconda}
+``Anaconda software distribution,'' 2020.
+
+\bibitem{reback2020pandas}
+T.~pandas~development team, ``pandas-dev/pandas: Pandas.''
+  \url{https://doi.org/10.5281/zenodo.3509134}, Feb. 2020.
+
+\bibitem{mckinney-proc-scipy-2010}
+{W}es {M}c{K}inney, ``{D}ata {S}tructures for {S}tatistical {C}omputing in
+  {P}ython,'' in {\em {P}roceedings of the 9th {P}ython in {S}cience
+  {C}onference} ({S}t\'efan van~der {W}alt and {J}arrod {M}illman, eds.),
+  pp.~56 -- 61, 2010.
+
+\bibitem{osmnx}
+G.~Boeing, ``Osmnx: New methods for acquiring, constructing, analyzing, and
+  visualizing complex street networks,'' {\em Computers Environment and Urban
+  Systems}, vol.~65, pp.~126--139, 07 2017.
+
+\bibitem{OpenStreetMap}
+{OpenStreetMap contributors}, ``{Planet dump retrieved from
+  https://planet.osm.org }.'' \url{ https://www.openstreetmap.org }, 2017.
+
+\bibitem{PyYaml}
+K.~Simonov, ``{PyYAML - The next generation YAML parser and emitter for
+  Python.}.'' \url{ https://github.com/yaml/pyyaml }.
+
+\bibitem{folium}
+R.~Story, ``{Python Data, Leaflet.js Maps}.'' \url{
+  https://github.com/python-visualization/folium }.
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay, ``Scikit-learn:
+  Machine learning in {P}ython,'' {\em Journal of Machine Learning Research},
+  vol.~12, pp.~2825--2830, 2011.
+
+\bibitem{seaborn}
+M.~Waskom, O.~Botvinnik, D.~O'Kane, P.~Hobson, S.~Lukauskas, D.~C. Gemperline,
+  T.~Augspurger, Y.~Halchenko, J.~B. Cole, J.~Warmenhoven, J.~de~Ruiter,
+  C.~Pye, S.~Hoyer, J.~Vanderplas, S.~Villalba, G.~Kunter, E.~Quintero,
+  P.~Bachant, M.~Martin, K.~Meyer, A.~Miles, Y.~Ram, T.~Yarkoni, M.~L.
+  Williams, C.~Evans, C.~Fitzgerald, Brian, C.~Fonnesbeck, A.~Lee, and
+  A.~Qalieh, ``mwaskom/seaborn: v0.8.1 (september 2017),'' Sept. 2017.
+
+\bibitem{Datashader}
+``{Datashader is a data rasterization pipeline for automating the process of
+  creating meaningful representations of large amounts of data. }.'' \url{
+  https://github.com/holoviz/datashader}.
+
+\bibitem{SciPyProceedings_11}
+A.~A. Hagberg, D.~A. Schult, and P.~J. Swart, ``Exploring network structure,
+  dynamics, and function using networkx,'' in {\em Proceedings of the 7th
+  Python in Science Conference} (G.~Varoquaux, T.~Vaught, and J.~Millman,
+  eds.), (Pasadena, CA USA), pp.~11 -- 15, 2008.
+
+\bibitem{karney}
+C.~F.~F. Karney. \url{ https://geographiclib.sourceforge.io/}.
+
+\bibitem{shapely}
+``{Manipulation and analysis of geometric objects in the Cartesian plane. }.''
+  \url{ https://github.com/Toblerity/Shapely}.
+
+\bibitem{pyproj}
+``Python interface to proj (cartographic projections and coordinate
+  transformations library)..'' \url{ https://github.com/pyproj4/pyproj}.
+
+\bibitem{autodesk}
+Autodesk, ``To work with plot files.''
+  \url{https://knowledge.autodesk.com/support/autocad/learn-explore/caas/CloudHelp/cloudhelp/2020/ENU/AutoCAD-Core/files/GUID-6405BB6F-4350-4F0A-AC09-3E237F20FBD6-htm.html}.
+
+\bibitem{zheng2011geolife}
+Y.~Zheng, H.~Fu, X.~Xie, W.-Y. Ma, and Q.~Li, {\em Geolife GPS trajectory
+  dataset - User Guide}, geolife gps trajectories 1.1~ed., July 2011.
+\newblock Geolife GPS trajectories 1.1.
+
+\bibitem{lachesis}
+R.~Hariharan and K.~Toyama, ``Project lachesis: Parsing and modeling location
+  histories,'' in {\em Geographic Information Science} (M.~J. Egenhofer,
+  C.~Freksa, and H.~J. Miller, eds.), (Berlin, Heidelberg), pp.~106--124,
+  Springer Berlin Heidelberg, 2004.
+
+\bibitem{wikipedia_medoid}
+``Medoid.'' \url{https://en.wikipedia.org/wiki/Medoid}, Sep 2020.
+
+\bibitem{ultra_fast_medoid}
+T.~Z. Baharav and D.~N.~C. Tse, ``Ultra fast medoid identification via
+  correlated sequential halving,'' {\em CoRR}, vol.~abs/1906.04356, 2019.
+
+\bibitem{bagaria2017medoids}
+V.~Bagaria, G.~M. Kamath, V.~Ntranos, M.~J. Zhang, and D.~Tse, ``Medoids in
+  almost linear time via multi-armed bandits,'' 2017.
+
+\bibitem{wikipedia_kdtree}
+``K-d tree.'' \url{https://en.wikipedia.org/wiki/K-d_tree}, Sep 2020.
+
+\bibitem{dijkstra}
+E.~W. Dijkstra, ``A note on two problems in connexion with graphs,'' {\em
+  Numer. Math.}, vol.~1, p.~269–271, Dec. 1959.
+
+\bibitem{mobility_measures}
+M.~C. Gonzalez, C.~Hidalgo, and A.-L. Barabasi, ``Understanding individual
+  human mobility patterns,'' {\em Nature}, vol.~453, pp.~779--82, 07 2008.
+
+\bibitem{PappalardoGyration}
+L.~Pappalardo, S.~Rinzivillo, Z.~Qu, D.~Pedreschi, and F.~Giannotti,
+  ``Understanding the patterns of car travel,'' {\em The European Physical
+  Journal Special Topics}, vol.~215, pp.~61--73, Jan. 2013.
+
+\bibitem{DiRenzo2020}
+L.~D. Renzo, P.~Gualtieri, F.~Pivari, L.~Soldati, A.~Attin{\`{a}}, G.~Cinelli,
+  C.~Leggeri, G.~Caparello, L.~Barrea, F.~Scerbo, E.~Esposito, and A.~D.
+  Lorenzo, ``Eating habits and lifestyle changes during {COVID}-19 lockdown: an
+  italian survey,'' {\em Journal of Translational Medicine}, vol.~18, June
+  2020.
+
+\end{thebibliography}

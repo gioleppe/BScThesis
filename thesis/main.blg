@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+The style file: ieeetr.bst
+Reallocating 'name_of_file' (item size: 1) to 17 items.
+Database file #1: bibliografia.bib
+Warning--entry type for "reback2020pandas" isn't style-file defined
+--line 215 of file bibliografia.bib
+Warning--entry type for "seaborn" isn't style-file defined
+--line 279 of file bibliografia.bib
+Name 1 in "L. {Pournajaf}, L. {Xiong}, D. A. {Garcia-Ulloa}, and V. {Sunderam}" has a comma at the end for entry privacy
+while executing---line 969 of file ieeetr.bst
+You've used 47 entries,
+            1876 wiz_defined-function locations,
+            744 strings with 12681 characters,
+and the built_in function-call counts, 11925 in all, are:
+= -- 1054
+> -- 668
+< -- 1
++ -- 242
+- -- 195
+* -- 880
+:= -- 1731
+add.period$ -- 52
+call.type$ -- 47
+change.case$ -- 44
+chr.to.int$ -- 0
+cite$ -- 47
+duplicate$ -- 548
+empty$ -- 1087
+format.name$ -- 195
+if$ -- 2895
+int.to.chr$ -- 0
+int.to.str$ -- 47
+missing$ -- 30
+newline$ -- 148
+num.names$ -- 47
+pop$ -- 181
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 448
+stack$ -- 0
+substring$ -- 539
+swap$ -- 235
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 88
+width$ -- 49
+write$ -- 425
+(There was 1 error message)

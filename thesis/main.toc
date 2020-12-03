@@ -1,0 +1,37 @@
+\babel@toc {italian}{}
+\babel@toc {italian}{}
+\contentsline {chapter}{Introduzione}{5}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Stato dell'arte e strumenti utilizzati}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Mobile Crowdsensing}{9}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Data set di mobilità urbana}{11}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Librerie Utilizzate}{12}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Scikit-mobility}{12}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Pandas}{13}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}OSMnx}{13}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}PyYaml}{13}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}Altre librerie}{14}{subsection.1.3.5}%
+\contentsline {chapter}{\numberline {2}Un modello probabilistico per la Data Coverage}{15}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Data Coverage}{15}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Il modello probabilistico}{16}{section.2.2}%
+\contentsline {chapter}{\numberline {3}Dataset di mobilità urbana}{20}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Microsoft Geolife}{20}{section.3.1}%
+\contentsline {paragraph}{I numeri di GeoLife}{21}{section*.16}%
+\contentsline {section}{\numberline {3.2}Augmented Geolife}{26}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Simulazione delle traiettorie}{30}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Analisi del dataset aumentato}{34}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Sperimentazioni e analisi dei risultati}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Tre scenari applicativi}{41}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Monitoraggio ambientale}{43}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Generazione della griglia}{44}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Risultati del modello di coverage}{45}{subsection.4.2.2}%
+\contentsline {section}{\numberline {4.3}Flussi di traffico}{49}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}OSMnx e metropolitane di Pechino}{49}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Visualizzazione delle stazioni della metropolitana}{49}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Risultati del modello di coverage}{50}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Punti di interesse}{54}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}Punti di interesse considerati }{54}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Risultati del modello di coverage}{55}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Analisi dei risultati ottenuti}{59}{section.4.5}%
+\contentsline {chapter}{\numberline {5}Conclusioni}{61}{chapter.5}%
+\contentsline {paragraph}{Calcolo della Coverage a partire dalla mobilità degli utenti tramite strumenti predittivi}{62}{section*.56}%
+\contentsline {paragraph}{Uso della Data Coverage per ottimizzare la progettazione di architetture di MCS adattive alla mobilità ed alla quantità di dati}{62}{section*.57}%

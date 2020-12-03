@@ -1,0 +1,44 @@
+\documentclass[12pt,a4paper,oneside, openright]{book}
+\usepackage[ left=3cm,right=2.5cm,top=2.5cm,bottom=2.5cm]{geometry}
+
+\usepackage[italian]{babel}
+\usepackage{setspace}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{subcaption}
+\usepackage{csvsimple}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{float}
+
+
+
+\graphicspath{ {immagini/} }
+\doublespacing
+\fancyhf{}
+\newcommand{\R}{\mathbb{R}}
+
+
+
+\begin{document}
+	\pagestyle{plain}
+	\input{frontespizio}
+	\frontmatter
+	\input{dedica}
+	\input{riassunto}
+	
+	\mainmatter
+	\input{indici}
+	\input{introduzione}
+	\input{cap1}
+	\input{cap2}
+	\input{cap3}
+	\input{cap4}
+	\input{cap5}
+	\input{ringraziamenti}
+	
+	\bibliographystyle{ieeetr}
+	\bibliography{bibliografia.bib}
+	
+\end{document}
